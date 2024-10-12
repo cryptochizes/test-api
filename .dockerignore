@@ -1,0 +1,12 @@
+**/.env*
+**/.git
+**/.gitignore
+**/.idea
+**/.vscode
+**/node_modules
+README.md
+.eslintrc.js
+.prettierrc
+
+dist/
+start.sh
